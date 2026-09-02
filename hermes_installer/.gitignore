@@ -1,0 +1,13 @@
+# Local environment overrides
+.env
+*.env
+.env.local
+
+# Hermes Agent local data and caches
+.hermes/
+hermes_cache/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
